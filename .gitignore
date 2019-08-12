@@ -14,3 +14,4 @@ __pycache*
 *.pyc
 downloads
 *.gif
+data
