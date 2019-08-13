@@ -1,0 +1,6 @@
+*.pth
+.gitignore
+Dockerfile
+README.md
+data
+*.ipynb
